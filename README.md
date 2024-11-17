@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Tran Trong Nghia
+* ID: 22BI13332
+* Group ID: 14
+* Project Name:  Job Search Portal
